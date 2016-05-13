@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiainsigniu02spen_0360.png"; bbox 0 0 1796 3048; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1290 0 1796 2967">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1290 0 1796 2967">
+     <span class='ocr_line' id='line_1_1' title="bbox 1290 0 1796 2967"><span class='ocrx_word' id='word_1_1' title='bbox 1290 0 1796 2967; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1130 2 1199 353">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1130 2 1199 353">
+     <span class='ocr_line' id='line_1_2' title="bbox 1174 302 1199 331"><span class='ocrx_word' id='word_1_2' title='bbox 1174 302 1199 331; x_wconf 53' lang='grc' dir='ltr'>,Β</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1130 2 1173 353; baseline -351 7371"><span class='ocrx_word' id='word_1_3' title='bbox 1130 2 1165 11; x_wconf 45' lang='grc' dir='ltr'>Α</span> <span class='ocrx_word' id='word_1_4' title='bbox 1147 282 1173 353; x_wconf 45' lang='lat' dir='ltr'>tvm</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
